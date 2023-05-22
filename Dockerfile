@@ -10,4 +10,4 @@ RUN set -x \
   && npm install -g ds moment cache index uuid axios js-base64 typescript require @types/node png-js global-agent json5 form-data fs jieba ts-md5 ws tslib tough-cookie date-fns dotenv prettytable crypto-js canvas jsdom hp \
   && mkdir -p data
 
-ADD data/ /data
+ADD ql/data/ /data
