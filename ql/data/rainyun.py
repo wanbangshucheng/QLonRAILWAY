@@ -1,3 +1,6 @@
+/*
+cron: 25 6 * * *
+*/
 # coding=utf-8
 import requests
 from datetime import datetime, timedelta, timezone
