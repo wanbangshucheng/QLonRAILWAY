@@ -4,7 +4,7 @@
 # @Author : github@limoruirui https://github.com/limoruirui
 # @Time : 5/5/2022 20:09
 /*
-cron：29 6 * * *
+# cron：29 6 * * *
 */
 # -------------------------------
 """
