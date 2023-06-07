@@ -20,8 +20,8 @@
     5.get请求 没携带任何东西出去 开源脚本 请不要说什么提交什么东西到我服务器
 5.库中有每月自动领取爱奇艺会员天数红包的脚本 可配合使用(需有高等级的运行脚本提供红包 其它人才可以领取)
 """
-cookie = "P00001=cdzxpPQfRm1lqcYcCPN7BJ7DP6Rm334RVKdJlTT8ukBWtEKH4m1wfFMqZ44fm3Xq11fQra4a"
-iqiyi_dfp = "e0ef9bbf8510a5458ea5c62cff5899fc12cbf451f43877b5d0da1d27349ab598c3@1685263841346@1683967842346"
+cookie = "P00001=60jQeb3LpjcbNCtFlijiwm2IFaQe2QnAyWm3EUJ1zvQ4hILeOrukcsuUlyzfm3cfM0Lp702"
+iqiyi_dfp = "e11a1976db0d514d16ae903ba3e2ea0a241d806a7e7516aeb40c1601912f17ffca@1686804803429@1685508804429"
 from time import sleep, time
 from random import randint, choice
 from json import dumps
