@@ -19,6 +19,7 @@
     4.不会自己抓的话 请打开设置环境变量 get_iqiyi_dfp 为 True 再执行脚本会获得并输出到面板 请复制后按上一条填入环境变量 获取完请删除get_iqiyi_dfp环境变量 小鸡经不起操
     5.get请求 没携带任何东西出去 开源脚本 请不要说什么提交什么东西到我服务器
 5.库中有每月自动领取爱奇艺会员天数红包的脚本 可配合使用(需有高等级的运行脚本提供红包 其它人才可以领取)
+cron: 59 0 0 * * *
 """
 cookie = "P00001=c0GflNm3uDGtUpaqhcqghSlm1uGm195uIc716CVcYddIpTSh5hDoAZofAtE6GS3Rru9MR78"
 iqiyi_dfp = "e11a1976db0d514d16ae903ba3e2ea0a241d806a7e7516aeb40c1601912f17ffca@1686804803429@1685508804429"
