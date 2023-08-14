@@ -2,7 +2,7 @@
 Edge必应自动搜索赚积分
 使用Edge浏览器打开必应 https://rewards.bing.com/ F12抓取Cookie即可  正确的CK格式是以MUID=xxxxxxx开头的
 当前版本：v1.3
-
+cron: 0 9,18 * * *
 变量名：bingCK  多账号换行  
 bingDetectionStop 是否检测到积分未增长自动停止任务  默认为true  不需要该功能则额外定义变量，值为false
 
