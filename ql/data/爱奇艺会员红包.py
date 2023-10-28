@@ -13,7 +13,7 @@
     2.也可以自行抓包 电脑或者手机都可以, 已知电脑不顶号的情况下有效期为三个月
 4.cookie食用方式: 可以只保留P00001=xxx;中xxx的值 也可以整段都要 青龙运行可新建并放入到环境变量 iqy_ck 中 也可以直接填写在本脚本中
 """
-cookie = "P00001=c1Hm3jxEe29EfAVzUqm2dGp6gafEr4DrKGC3redqqpI8DcorlorEOL0Z0C3TvtaDSnWefb"
+cookie = "P00001=a0diGOwHDvihFKm3AjzL24DlI9m1m1FJR6yOm2nZwALGUIZqRwLizbxlim2Fcx9BAm18PwGA55"
 from time import sleep, time
 from random import choice
 from json import dumps
