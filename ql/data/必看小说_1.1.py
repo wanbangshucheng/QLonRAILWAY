@@ -1,4 +1,4 @@
-'''
+/*
 📖必看免费小说_1.1     ♻20231220
 
 自动完成金币任务，自动提现至微信（需绑定微信和手机且连续签到）
@@ -10,8 +10,8 @@ APP下载地址：https://tinyurl.com/4udwu6e2
 变量名：bkxs     变量值：version=5.2.25.28xxxxxx
 
 定时：45 7 * * *
-
-'''
+cron: 0 1,10 * * *
+*/
 
 import requests
 import hashlib
