@@ -21,8 +21,8 @@
 5.库中有每月自动领取爱奇艺会员天数红包的脚本 可配合使用(需有高等级的运行脚本提供红包 其它人才可以领取)
 cron: 59 0 0 * * *
 """
-cookie = "P00001=a0diGOwHDvihFKm3AjzL24DlI9m1m1FJR6yOm2nZwALGUIZqRwLizbxlim2Fcx9BAm18PwGA55"
-iqiyi_dfp = "e01943f9c851a14191adf7dd0867cf6ff157a1c8ba81532ec013a74b810af4b4d7@1699790156873@1698494157873"
+cookie = ""
+iqiyi_dfp = "a0730bab6234ab4278be50c22d3c694d67a91ace63b49d3cb061fd2d45cc24bdb6@1709771633197@1708475634197"
 from time import sleep, time
 from random import randint, choice
 from json import dumps
