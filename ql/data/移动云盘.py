@@ -1,3 +1,4 @@
+/*
 #下载链接https://caiyun.feixin.10086.cn:7071/portal/cloudItem/index.html?path=acceptInvite&id=qyntuolmW66KgfaJ1%2BV1roPEBadE05REBGDyinS9bRE%3D0001705658809595&phone=152****1801
 # 功能：签到 每日任务 撸会员
 # 抓包 Cookie：任意Authorization
@@ -8,6 +9,8 @@
 # 先自行上传一个文件，抓/richlifeApp/devapp/IUploadAndDownload请求体中parentCatalogID的值，这是上传到哪个磁盘的id，不填默认根目录
 # 进入笔记，找到任意请求头中含有NOTE_TOKEN，抓取NOTE_TOKEN和APP_AUTH值填入
 # 定时：一天两三次
+cron: 0 1,3,6 * * *
+*/
 import os
 import random
 import time
